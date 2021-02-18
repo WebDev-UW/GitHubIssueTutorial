@@ -1,1 +1,0 @@
-Type a short biography in a file {name}.txt, then save it.
